@@ -1,65 +1,85 @@
-# Patch V10.00
+# Patch V9.00
 
-<img alt="preview" src="https://fortnite.gg/img/seasons/bg/10.jpg"/>
-
-### Downtime
-
-- The time grows near.
-
-- Downtime for our next season begins tomorrow, August 1 at 4 AM ET (0800 UTC)
-
-# Patch V10.10
-
-<img alt="preview" src="https://fortnite.gg/img/seasons/bg/10.jpg"/>
+<img alt="preview" src="https://fortnite.gg/img/seasons/bg/9.jpg"/>
 
 ### Downtime
 
-- Patch v10.10 is almost here!
+- The Future approaches.
 
-- Downtime begins tomorrow, August 13 at 4 AM ET (0800 UTC).
+- Downtime for Season 9 begins tomorrow, May 9 at 4 AM ET(0800 UTC)
 
-# Patch V10.20
+# Patch V9.01
 
-<img alt="preview" src="https://fortnite.gg/img/seasons/bg/10.jpg"/>
-
-### Downtime
-
-- Take cover!
-
-- The v10.20 update is coming tomorrow.
-Downtime begins tomorrow, August 27, at 4 AM ET (0800 UTC)
-
-# Patch V10.30
-
-<img alt="preview" src="https://fortnite.gg/img/seasons/bg/10.jpg"/>
+<img alt="preview" src="https://fortnite.gg/img/seasons/bg/9.jpg"/>
 
 ### Downtime
 
-- Break out of your shell!
+- Get up close and personal when the v.9.01 update releases tomorrow, May 15.
 
-- The v10.30 update arrives tomorrow. Downtime will begin at 4 AM ET (0800 UTC).
+- Downtime begins at 4 AM ET(0800UTC).
 
-# Patch V10.31
+# Patch V9.10
 
-<img alt="preview" src="https://fortnite.gg/img/seasons/bg/10.jpg"/>
-
-### Downtime
-
-- It’s time to mobilize.
-
-- The v10.31 update releases today. Downtime is expected to begin at 4 AM ET (0800 UTC).
-
-# Patch V10.40
-
-<img alt="preview" src="https://fortnite.gg/img/seasons/bg/10.jpg"/>
+<img alt="preview" src="https://fortnite.gg/img/seasons/bg/9.jpg"/>
 
 ### Downtime
 
-- Reach for the stars!
+- Get ready to drop in 👟
 
-- The v10.40 update arrives tomorrow.
+- Update 9.10 releases tomorrow, May 22. Downtime begins at 4 AM ET(0800UTC). There will be extended downtime for this release.
 
-- Downtime will begin at 4 AM ET (0800 UTC). The Patch Notes will be available when downtime ends.
+# Patch V9.20
+
+<img alt="preview" src="https://fortnite.gg/img/seasons/bg/9.jpg"/>
+
+### Downtime
+
+- Harness the Storm 🌩️
+
+- The v9.20 update releases tomorrow, June 6. Downtime begins at 4 AM ET (0800UTC).
+
+
+# Patch V9.21
+
+<img alt="preview" src="https://fortnite.gg/img/seasons/bg/9.jpg"/>
+
+### Downtime
+
+- Watch your proximity!
+
+- The v9.21 update lands tomorrow, June 12. Downtime begins at 4 AM ET(0800 UTC).
+
+# Patch V9.30
+
+<img alt="preview" src="https://fortnite.gg/img/seasons/bg/9.jpg"/>
+
+### Downtime
+
+- A refreshing new beverage arrives in the v9.30 update tomorrow, June 18. It'll hit the spot! 🌊🏖️
+
+- Downtime begins at 4 AM ET (0800UTC).
+
+# Patch V9.40
+
+<img alt="preview" src="https://fortnite.gg/img/seasons/bg/9.jpg"/>
+
+### Downtime
+
+- The v9.40 update is closing in!
+
+- Downtime begins tomorrow, July 17 at 4 AM ET (0800 UTC)
+
+# Patch V9.41
+
+<img alt="preview" src="https://fortnite.gg/img/seasons/bg/9.jpg"/>
+
+### Downtime
+
+- Stay ahead of the competition with the v9.41 Content Update! Available tomorrow, July 23 at 8 AM ET (12 PM UTC).
+
+- There will be no downtime.
+
+
 
 
 
